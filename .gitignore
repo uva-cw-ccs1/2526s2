@@ -2,5 +2,11 @@
 .DS_Store
 week1/.DS_Store
 .Rproj.user/
+*.Rproj
 
-#week1/Tutorial/inclass/*_SOLUTIONS.ipynb
+mediocre-themer.css
+libs/
+*.Rmd
+*.html
+
+student_names.xlsx
