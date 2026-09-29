@@ -4,6 +4,8 @@
 
 This repository holds teaching materials for CCS1: lecture notebooks, tutorial exercises, weekly practice sets with solutions, and the final exam. It also serves as the course syllabus. CCS1 is a course introducting Python to social science students. The course treats programming not as a set of commands to memorise, but as a way of understanding how a machine processes instructions. Students who finish the course should be able to read unfamiliar code and reason about what it can and cann do, which matters as much as being able to write code of their own.
 
+> The full course file can be [read here](https://github.com/uva-cw-ccs1/2526s2/blob/main/CCS1_Course_File_2025-26.pdf).
+
 ---
 
 ## Practical information
